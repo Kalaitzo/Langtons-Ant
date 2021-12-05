@@ -1,5 +1,5 @@
 # Langtons_Ant
-Different patterns with Langton's Ant using python.
+Different patterns of Langton's Ant using python.
 
 1st code -> Pattern RLLLLLLRRLRR
 2nd code -> Pattern RRLLLRLLLRRR
